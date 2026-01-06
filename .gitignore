@@ -1,0 +1,12 @@
+# Ignore Data Folders (Too big for GitHub)
+data/
+results/
+__pycache__/
+*.pyc
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Virtual Environment (if you use one)
+venv/
+.env
